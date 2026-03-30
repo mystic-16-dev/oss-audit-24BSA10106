@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-STUDENT_NAME="Your Name"
+STUDENT_NAME="Kumar Ankur"
 SOFTWARE_CHOICE="Git"
 KERNEL=$(uname -r)
 USER_NAME=$(whoami)
